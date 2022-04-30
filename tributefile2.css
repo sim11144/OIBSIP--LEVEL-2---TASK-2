@@ -1,0 +1,28 @@
+/* css  */
+body {
+    margin: 20px 10px 20px 10px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 30px;
+  }
+  
+  .body-font {
+    font-family: "Candara", "Helvetica", "Times New Roman";
+    color: rgb(30, 23, 23);
+  }
+  
+  img {
+  width : 100%;  
+  }
+  
+   .pattern{
+     background-color: rgb(199, 215, 185);
+   }
+  .margin-clear {
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+  }
+  
+  
